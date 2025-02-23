@@ -1,5 +1,5 @@
 # WindowsUpdateTool
-An executable use can use for managing various windows updates tasks.
+An executable you can use for managing various windows updates tasks.
 
 A console based application written in C++ that runs powershell scripts to accomplish the selected tasks.
 
